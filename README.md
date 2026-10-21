@@ -1,4 +1,5 @@
-Amazon Laptops - Exploratory Data Analysis (EDA)
+**Amazon Laptops - Exploratory Data Analysis (EDA)**
+
 ABOUT THE DATA
 
 The base dataset contains information scraped from Amazon, featuring 141 laptop listings with their technical specifications (prices in ₹).
