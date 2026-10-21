@@ -25,6 +25,7 @@ SSD is the standard: 124 of 139 listings mention SSD in the title and none menti
 
 <img width="1568" height="588" alt="obraz" src="https://github.com/user-attachments/assets/12f10946-d7c5-4259-874b-0673abf0ff88" />
 
+
 **LIMITATIONS**
 Small sample (139 listings), so estimates are imprecise.
 The results are associations, not causal effects. The model does not control for brand, CPU or GPU, which are related to both specs and price.
